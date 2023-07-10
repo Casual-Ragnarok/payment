@@ -1,1 +1,1 @@
-![](./imgs/sponsor.jpg)
+![](./imgs/mainland.jpg)
